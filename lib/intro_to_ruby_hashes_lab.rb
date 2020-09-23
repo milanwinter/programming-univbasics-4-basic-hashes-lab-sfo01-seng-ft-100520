@@ -18,6 +18,6 @@ end
 
 def id_hash_generator(number)
   hash = {
-    key: number
+    id: number
   }
 end
